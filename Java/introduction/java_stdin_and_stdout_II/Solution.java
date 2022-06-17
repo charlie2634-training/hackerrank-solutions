@@ -13,5 +13,6 @@ public class Solution {
         System.out.println("String: " + myString);
         System.out.println("Double: " + myDouble);
         System.out.println("Int: " + myInt);
+        scan.close();
     }
 }
