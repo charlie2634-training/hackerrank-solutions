@@ -1,7 +1,16 @@
-# HackerRank Solutions.
-136 HackerRank solutions. [View my profile](https://www.hackerrank.com/charlie2634).
+# HackerRank Solutions
+Welcome to my HackerRank journey. Here are presented 136 HackerRank solutions using Java 8.
 
-# Java
+# About The Project
+This project was done using Eclipse (Neon 3) IDE and Java 8. 
+
+# Profiles
+[HackerRank](https://www.hackerrank.com/charlie2634).
+[LinkedIn](https://www.linkedin.com/in/carlosjcobaledac).
+
+# Solutions
+
+## Java
 
 | Subdomain | Challenge | Points | Difficulty | Solution |
 |:---:|:---:|:---:|:---:|:---:|
@@ -70,7 +79,7 @@ Strings | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern
 Strings | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | 20 | Medium | [Solution](./src/java/strings/tag_content_extractor/Solution.java)
 Strings | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | 20 | Easy | [Solution](./src/java/strings/valid_username_regular_expression/Solution.java)
 
-# Algorithms
+## Algorithms
 
 | Subdomain | Challenge | Points | Difficulty | Solution |
 |:---:|:---:|:---:|:---:|:---:|
@@ -148,4 +157,4 @@ Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 
 Warmup | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 | Easy | [Solution](./src/algorithms/warmup/time_conversion/Solution.java)
 
 # Important
-Heavily inspired on [RodneyShag's repo](https://github.com/RodneyShag/HackerRank_solutions).
+Heavily inspired on [RodneyShag's repo](https://github.com/RodneyShag/HackerRank_solutions), go check his repo too!.
