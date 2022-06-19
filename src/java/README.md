@@ -1,7 +1,5 @@
 # Java
 
-| Subdomain | Challenge | Points | Difficulty | Solution |
-|:---:|:---:|:---:|:---:|:---:|
 | Subdomain | Difficulty | Points | Challenge | Solution |
 |:---:|:---:|:---:|:---:|:---:|
 Advanced | <!--01.--> Easy | 010 | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) | [Solution](./advanced/java_exception_handling_try_catch/Solution.java)

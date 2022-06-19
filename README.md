@@ -5,8 +5,8 @@ Welcome to my HackerRank journey. Here are presented 136 HackerRank solutions us
 This project was done using Eclipse (Neon 3) IDE and Java 8. 
 
 # Profiles
-[HackerRank](https://www.hackerrank.com/charlie2634).
-[LinkedIn](https://www.linkedin.com/in/carlosjcobaledac).
+## [HackerRank](https://www.hackerrank.com/charlie2634).
+## [LinkedIn](https://www.linkedin.com/in/carlosjcobaledac).
 
 # Solutions
 
