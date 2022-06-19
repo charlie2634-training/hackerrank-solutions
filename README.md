@@ -10,7 +10,7 @@ This project was done using Eclipse (Neon 3) IDE and Java 8.
 
 # Solutions
 
-## Java
+## [Java](./src/java)
 
 | Subdomain | Difficulty | Points | Challenge | Solution |
 |:---:|:---:|:---:|:---:|:---:|
@@ -79,7 +79,7 @@ Strings | <!--02.--> Medium | 020 | [Tag Content Extractor](https://www.hackerra
 Strings | <!--02.--> Medium | 025 | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [Solution](./src/java/strings/java_regex_2_duplicate_word/Solution.java)
 Strings | <!--02.--> Medium | 025 | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [Solution](./src/java/strings/java_regex/Solution.java)
 
-## Algorithms
+## [Algorithms](./src/algorithms)
 
 | Subdomain | Difficulty | Points | Challenge | Solution |
 |:---:|:---:|:---:|:---:|:---:|
@@ -141,10 +141,10 @@ Implementation | <!--02.--> Medium | 040 | [The Bomberman Game](https://www.hack
 Implementation | <!--02.--> Medium | 050 | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | [Solution](./src/algorithms/implementation/almost_sorted/Solution.java)
 Implementation | <!--03.--> Hard | 080 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | [Solution](./src/algorithms/implementation/matrix_layer_rotation/Solution.java)
 Implementation | <!--04.--> Expert | 100 | [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border/problem) | [Solution](./src/algorithms/implementation/palindromic_border/Solution.java)
-Sorting | 040 | <!--02.--> Medium | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./src/algorithms/sorting/fraudulent_activity_notifications/Solution.java)
-Sorting | 040 | <!--02.--> Medium | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [Solution](./src/algorithms/sorting/the_full_counting_sort/Solution.java)
-Strings | 015 | <!--01.--> Easy | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./src/algorithms/strings/camelcase/Solution.java)
-Strings | 036.36 | <!--04.--> Expert | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game/problem) | [Solution](./src/algorithms/strings/two_strings_game/Solution.java)
+Sorting | <!--02.--> Medium | 040 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./src/algorithms/sorting/fraudulent_activity_notifications/Solution.java)
+Sorting | <!--02.--> Medium | 040 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [Solution](./src/algorithms/sorting/the_full_counting_sort/Solution.java)
+Strings | <!--01.--> Easy | 015 | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./src/algorithms/strings/camelcase/Solution.java)
+Strings | <!--04.--> Expert | 036.36 | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game/problem) | [Solution](./src/algorithms/strings/two_strings_game/Solution.java)
 Warmup | <!--01.--> Easy | 001 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](./src/algorithms/warmup/solve_me_first/Solution.java)
 Warmup | <!--01.--> Easy | 010 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](./src/algorithms/warmup/a_very_big_sum/Solution.java)
 Warmup | <!--01.--> Easy | 010 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](./src/algorithms/warmup/birthday_cake_candles/Solution.java)
