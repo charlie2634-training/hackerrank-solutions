@@ -63,6 +63,7 @@ Implementation | <!--04.--> Expert | 100 | [Palindromic Border](https://www.hack
 Sorting | <!--02.--> Medium | 040 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./sorting/fraudulent_activity_notifications/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [Solution](./sorting/the_full_counting_sort/Solution.java)
 Strings | <!--01.--> Easy | 015 | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./strings/camelcase/Solution.java)
+Strings | <!--02.--> Medium | 050 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](./strings/sherlock_and_anagrams/Solution.java)
 Strings | <!--04.--> Expert | 036.36 | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game/problem) | [Solution](./strings/two_strings_game/Solution.java)
 Warmup | <!--01.--> Easy | 001 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](./warmup/solve_me_first/Solution.java)
 Warmup | <!--01.--> Easy | 010 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](./warmup/a_very_big_sum/Solution.java)
