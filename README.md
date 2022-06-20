@@ -1,5 +1,5 @@
 # HackerRank Solutions
-Welcome to my HackerRank journey. Here are presented 136 HackerRank solutions using Java 8.
+Welcome to my HackerRank journey. Here are presented 137 HackerRank solutions using Java 8.
 
 # About This Project
 This project was done using Eclipse (Neon 3) IDE and Java 8. 
