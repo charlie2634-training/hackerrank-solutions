@@ -61,6 +61,7 @@ Implementation | <!--02.--> Medium | 050 | [Almost Sorted](https://www.hackerran
 Implementation | <!--03.--> Hard | 080 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | [Solution](./implementation/matrix_layer_rotation/Solution.java)
 Implementation | <!--04.--> Expert | 100 | [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border/problem) | [Solution](./implementation/palindromic_border/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./sorting/fraudulent_activity_notifications/Solution.java)
+Sorting | <!--02.--> Medium | 040 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | [Solution](./sorting/lily_s_homework/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [Solution](./sorting/the_full_counting_sort/Solution.java)
 Strings | <!--01.--> Easy | 015 | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./strings/camelcase/Solution.java)
 Strings | <!--02.--> Medium | 050 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](./strings/sherlock_and_anagrams/Solution.java)

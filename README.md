@@ -142,6 +142,7 @@ Implementation | <!--02.--> Medium | 050 | [Almost Sorted](https://www.hackerran
 Implementation | <!--03.--> Hard | 080 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | [Solution](./src/algorithms/implementation/matrix_layer_rotation/Solution.java)
 Implementation | <!--04.--> Expert | 100 | [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border/problem) | [Solution](./src/algorithms/implementation/palindromic_border/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./src/algorithms/sorting/fraudulent_activity_notifications/Solution.java)
+Sorting | <!--02.--> Medium | 040 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | [Solution](./src/algorithms/sorting/lily_s_homework/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [Solution](./src/algorithms/sorting/the_full_counting_sort/Solution.java)
 Strings | <!--01.--> Easy | 015 | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./src/algorithms/strings/camelcase/Solution.java)
 Strings | <!--02.--> Medium | 050 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](./src/algorithms/strings/sherlock_and_anagrams/Solution.java)
@@ -156,6 +157,5 @@ Warmup | <!--01.--> Easy | 010 | [Plus Minus](https://www.hackerrank.com/challen
 Warmup | <!--01.--> Easy | 010 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](./src/algorithms/warmup/simple_array_sum/Solution.java)
 Warmup | <!--01.--> Easy | 010 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](./src/algorithms/warmup/staircase/Solution.java)
 Warmup | <!--01.--> Easy | 015 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](./src/algorithms/warmup/time_conversion/Solution.java)
-
 # Important
 Heavily inspired on [RodneyShag's repo](https://github.com/RodneyShag/HackerRank_solutions), go check his repo too!.
