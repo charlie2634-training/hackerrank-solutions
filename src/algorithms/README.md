@@ -64,6 +64,7 @@ Sorting | <!--02.--> Medium | 040 | [Fraudulent Activity Notifications](https://
 Sorting | <!--02.--> Medium | 040 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | [Solution](./sorting/lily_s_homework/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [Solution](./sorting/the_full_counting_sort/Solution.java)
 Strings | <!--01.--> Easy | 015 | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./strings/camelcase/Solution.java)
+Strings | <!--02.--> Medium | 035 | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | [Solution](./strings/sherlock_and_the_valid_string/Solution.java)
 Strings | <!--02.--> Medium | 050 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](./strings/sherlock_and_anagrams/Solution.java)
 Strings | <!--04.--> Expert | 036.36 | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game/problem) | [Solution](./strings/two_strings_game/Solution.java)
 Warmup | <!--01.--> Easy | 001 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](./warmup/solve_me_first/Solution.java)

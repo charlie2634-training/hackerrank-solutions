@@ -1,5 +1,5 @@
 # HackerRank Solutions
-Welcome to my HackerRank journey. Here are presented 138 HackerRank solutions using Java 8.
+Welcome to my HackerRank journey. Here are presented 139 HackerRank solutions using Java 8.
 
 # About This Project
 This project was done using Eclipse (Neon 3) IDE and Java 8. 
@@ -145,6 +145,7 @@ Sorting | <!--02.--> Medium | 040 | [Fraudulent Activity Notifications](https://
 Sorting | <!--02.--> Medium | 040 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | [Solution](./src/algorithms/sorting/lily_s_homework/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [Solution](./src/algorithms/sorting/the_full_counting_sort/Solution.java)
 Strings | <!--01.--> Easy | 015 | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./src/algorithms/strings/camelcase/Solution.java)
+Strings | <!--02.--> Medium | 035 | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | [Solution](./src/algorithms/strings/sherlock_and_the_valid_string/Solution.java)
 Strings | <!--02.--> Medium | 050 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](./src/algorithms/strings/sherlock_and_anagrams/Solution.java)
 Strings | <!--04.--> Expert | 036.36 | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game/problem) | [Solution](./src/algorithms/strings/two_strings_game/Solution.java)
 Warmup | <!--01.--> Easy | 001 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](./src/algorithms/warmup/solve_me_first/Solution.java)
@@ -157,5 +158,6 @@ Warmup | <!--01.--> Easy | 010 | [Plus Minus](https://www.hackerrank.com/challen
 Warmup | <!--01.--> Easy | 010 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](./src/algorithms/warmup/simple_array_sum/Solution.java)
 Warmup | <!--01.--> Easy | 010 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](./src/algorithms/warmup/staircase/Solution.java)
 Warmup | <!--01.--> Easy | 015 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](./src/algorithms/warmup/time_conversion/Solution.java)
+
 # Important
 Heavily inspired on [RodneyShag's repo](https://github.com/RodneyShag/HackerRank_solutions), go check his repo too!.
