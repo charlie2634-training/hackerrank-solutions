@@ -26,6 +26,7 @@ Implementation | <!--01.--> Easy | 015 | [The Hurdle Race](https://www.hackerran
 Implementation | <!--01.--> Easy | 015 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solution](./implementation/viral_advertising/Solution.java)
 Implementation | <!--01.--> Easy | 020 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solution](./implementation/angry_professor/Solution.java)
 Implementation | <!--01.--> Easy | 020 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Solution](./implementation/append_and_delete/Solution.java)
+Implementation | <!--01.--> Easy | 020 | [Beautiful Triplets](hackerrank.com/challenges/beautiful-triplets/problem) | [Solution](./implementation/beautiful_triplets/Solution.java)
 Implementation | <!--01.--> Easy | 020 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Solution](./implementation/circular_array_rotation/Solution.java)
 Implementation | <!--01.--> Easy | 020 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](./implementation/designer_pdf_viewer/Solution.java)
 Implementation | <!--01.--> Easy | 020 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [Solution](./implementation/equalize_the_array/Solution.java)

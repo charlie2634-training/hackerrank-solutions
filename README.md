@@ -1,5 +1,5 @@
 # HackerRank Solutions
-Welcome to my HackerRank journey. Here are presented 140 HackerRank solutions using Java 8.
+Welcome to my HackerRank journey. Here are presented 141 HackerRank solutions using Java 8.
 
 # About This Project
 This project was done using Eclipse (Neon 3) IDE and Java 8. 
@@ -107,6 +107,7 @@ Implementation | <!--01.--> Easy | 015 | [The Hurdle Race](https://www.hackerran
 Implementation | <!--01.--> Easy | 015 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solution](./src/algorithms/implementation/viral_advertising/Solution.java)
 Implementation | <!--01.--> Easy | 020 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solution](./src/algorithms/implementation/angry_professor/Solution.java)
 Implementation | <!--01.--> Easy | 020 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Solution](./src/algorithms/implementation/append_and_delete/Solution.java)
+Implementation | <!--01.--> Easy | 020 | [Beautiful Triplets](hackerrank.com/challenges/beautiful-triplets/problem) | [Solution](./src/algorithms/implementation/beautiful_triplets/Solution.java)
 Implementation | <!--01.--> Easy | 020 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Solution](./src/algorithms/implementation/circular_array_rotation/Solution.java)
 Implementation | <!--01.--> Easy | 020 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](./src/algorithms/implementation/designer_pdf_viewer/Solution.java)
 Implementation | <!--01.--> Easy | 020 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [Solution](./src/algorithms/implementation/equalize_the_array/Solution.java)
