@@ -1,5 +1,5 @@
 # HackerRank Solutions
-Welcome to my HackerRank journey. Here are presented 142 HackerRank solutions using Java 8.
+Welcome to my HackerRank journey. Here are presented 143 HackerRank solutions using Java 8.
 
 # About This Project
 This project was done using Eclipse (Neon 3) IDE and Java 8. 
@@ -143,6 +143,7 @@ Implementation | <!--02.--> Medium | 050 | [Almost Sorted](https://www.hackerran
 Implementation | <!--03.--> Hard | 080 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | [Solution](./src/algorithms/implementation/matrix_layer_rotation/Solution.java)
 Implementation | <!--04.--> Expert | 100 | [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border/problem) | [Solution](./src/algorithms/implementation/palindromic_border/Solution.java)
 Recursion | <!--02.--> Medium | 020 | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | [Solution](./src/algorithms/recursion/the_power_sum/Solution.java)
+Recursion | <!--02.--> Medium | 030 | [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem) | [Solution](./src/algorithms/recursion/crossword_puzzle/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./src/algorithms/sorting/fraudulent_activity_notifications/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | [Solution](./src/algorithms/sorting/lily_s_homework/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [Solution](./src/algorithms/sorting/the_full_counting_sort/Solution.java)
