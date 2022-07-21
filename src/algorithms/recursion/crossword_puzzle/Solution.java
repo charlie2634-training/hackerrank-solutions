@@ -25,7 +25,7 @@ class Result {
 		List<String> words = Arrays.asList(serializedWords.split(";"));
 		return toStringList(tryToInsert(0, crossword, words));
 	}
-
+	
 	public static char[][] tryToInsert(Integer currentI, char[][] crosswordPuzzle, List<String> availableWords) {
 
 		// print(crosswordPuzzle);
@@ -39,29 +39,10 @@ class Result {
 					boolean isTheBeginningOfAnHorizontalWord = (j == 0 || crosswordPuzzle[i][j - 1] == '+');
 
 					if (isTheBeginningOfAnHorizontalWord) {
-						String replaceableHorizontal = "";
-
-						for (int j2 = j; j2 < crosswordPuzzle[i].length; j2++) {
-							if (crosswordPuzzle[i][j2] == '+') {
-								break;
-							}
-							replaceableHorizontal += crosswordPuzzle[i][j2];
-						}
+						String replaceableHorizontal = getWord(crosswordPuzzle, i, j, true);
 
 						if (replaceableHorizontal.length() > 1 && replaceableHorizontal.contains("-")) {
-							final int targetReplaceable = replaceableHorizontal.length();
-							List<String> possibleReplacements = availableWords.stream()
-									.filter(x -> x.length() == targetReplaceable).collect(Collectors.toList());
-
-							for (int k = 0; k < replaceableHorizontal.length(); k++) {
-								if (replaceableHorizontal.charAt(k) != '-') {
-									final int indexFilter = k;
-									final char character = replaceableHorizontal.charAt(k);
-									possibleReplacements = possibleReplacements.stream()
-											.filter(x -> x.charAt(indexFilter) == character)
-											.collect(Collectors.toList());
-								}
-							}
+							List<String> possibleReplacements = getPossibleMatches(replaceableHorizontal, availableWords);
 
 							if (possibleReplacements.isEmpty())
 								return null;
@@ -84,29 +65,10 @@ class Result {
 						}
 					}
 					if (isTheBeginningOfAVerticalWord) {
-						String replaceableVertical = "";
-
-						for (int i2 = i; i2 < crosswordPuzzle.length; i2++) {
-							if (crosswordPuzzle[i2][j] == '+') {
-								break;
-							}
-							replaceableVertical += crosswordPuzzle[i2][j];
-						}
+						String replaceableVertical = getWord(crosswordPuzzle, i, j, false);
 
 						if (replaceableVertical.length() > 1 && replaceableVertical.contains("-")) {
-							final int targetReplaceable = replaceableVertical.length();
-							List<String> possibleReplacements = availableWords.stream()
-									.filter(x -> x.length() == targetReplaceable).collect(Collectors.toList());
-
-							for (int k = 0; k < replaceableVertical.length(); k++) {
-								if (replaceableVertical.charAt(k) != '-') {
-									final int indexFilter = k;
-									final char character = replaceableVertical.charAt(k);
-									possibleReplacements = possibleReplacements.stream()
-											.filter(x -> x.charAt(indexFilter) == character)
-											.collect(Collectors.toList());
-								}
-							}
+							List<String> possibleReplacements = getPossibleMatches(replaceableVertical, availableWords);
 
 							if (possibleReplacements.isEmpty())
 								return null;
@@ -135,6 +97,46 @@ class Result {
 		return null;
 	}
 
+	private static String getWord(char[][] crosswordPuzzle, int i, int j, boolean horizontal) {
+		String replaceable = "";
+
+		if(horizontal) {			
+			for (int j2 = j; j2 < crosswordPuzzle[i].length; j2++) {
+				if (crosswordPuzzle[i][j2] == '+') {
+					break;
+				}
+				replaceable += crosswordPuzzle[i][j2];
+			}
+		} else {
+			for (int i2 = i; i2 < crosswordPuzzle.length; i2++) {
+				if (crosswordPuzzle[i2][j] == '+') {
+					break;
+				}
+				replaceable += crosswordPuzzle[i2][j];
+			}
+		}
+		
+		return replaceable;
+	}
+	
+	private static List<String> getPossibleMatches(String replaceable, List<String> availableWords) {
+		final int targetReplaceable = replaceable.length();
+		List<String> possibleReplacements = availableWords.stream()
+				.filter(x -> x.length() == targetReplaceable).collect(Collectors.toList());
+
+		for (int k = 0; k < replaceable.length(); k++) {
+			if (replaceable.charAt(k) != '-') {
+				final int indexFilter = k;
+				final char character = replaceable.charAt(k);
+				possibleReplacements = possibleReplacements.stream()
+						.filter(x -> x.charAt(indexFilter) == character)
+						.collect(Collectors.toList());
+			}
+		}
+		
+		return possibleReplacements;
+	}
+	
 	private static List<String> toStringList(char[][] object) {
 		List<String> returnable = new ArrayList<>();
 
@@ -148,7 +150,7 @@ class Result {
 
 		return returnable;
 	}
-
+	
 	private static char[][] clone(char[][] object) {
 		char[][] newMatrix = new char[object.length][object[0].length];
 
