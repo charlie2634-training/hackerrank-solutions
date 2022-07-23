@@ -63,6 +63,7 @@ Implementation | <!--03.--> Hard | 080 | [Matrix Layer Rotation](https://www.hac
 Implementation | <!--04.--> Expert | 100 | [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border/problem) | [Solution](./implementation/palindromic_border/Solution.java)
 Recursion | <!--02.--> Medium | 020 | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | [Solution](./recursion/the_power_sum/Solution.java)
 Recursion | <!--02.--> Medium | 030 | [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem) | [Solution](./recursion/crossword_puzzle/Solution.java)
+Recursion | <!--02.--> Medium | 030 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | [Solution](./recursion/recursive_digit_sum/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./sorting/fraudulent_activity_notifications/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | [Solution](./sorting/lily_s_homework/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [Solution](./sorting/the_full_counting_sort/Solution.java)
