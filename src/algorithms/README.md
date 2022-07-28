@@ -64,6 +64,7 @@ Implementation | <!--04.--> Expert | 100 | [Palindromic Border](https://www.hack
 Recursion | <!--02.--> Medium | 020 | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | [Solution](./recursion/the_power_sum/Solution.java)
 Recursion | <!--02.--> Medium | 030 | [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem) | [Solution](./recursion/crossword_puzzle/Solution.java)
 Recursion | <!--02.--> Medium | 030 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | [Solution](./recursion/recursive_digit_sum/Solution.java)
+Recursion | <!--02.--> Medium | 040 | [Password Cracker](https://www.hackerrank.com/challenges/password-cracker/problem) | [Solution](./recursion/password_cracker/Solution.java)
 Recursion | <!--02.--> Medium | 050 | [Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2/problem) | [Solution](./recursion/stone_division_revisited/Solution.java)
 Recursion | <!--03.--> Hard | 050 | [K Factorization](https://www.hackerrank.com/challenges/k-factorization/problem) | [Solution](./recursion/k_factorization/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./sorting/fraudulent_activity_notifications/Solution.java)
