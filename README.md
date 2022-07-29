@@ -1,5 +1,5 @@
 # HackerRank Solutions
-Welcome to my HackerRank journey. Here are presented 147 HackerRank solutions using Java 8.
+Welcome to my HackerRank journey. Here are presented 148 HackerRank solutions using Java 8.
 
 # About This Project
 This project was done using Eclipse (Neon 3) IDE and Java 8. 
@@ -147,6 +147,7 @@ Recursion | <!--02.--> Medium | 030 | [Crossword Puzzle](https://www.hackerrank.
 Recursion | <!--02.--> Medium | 030 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | [Solution](./src/algorithms/recursion/recursive_digit_sum/Solution.java)
 Recursion | <!--02.--> Medium | 040 | [Password Cracker](https://www.hackerrank.com/challenges/password-cracker/problem) | [Solution](./src/algorithms/recursion/password_cracker/Solution.java)
 Recursion | <!--02.--> Medium | 050 | [Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2/problem) | [Solution](./src/algorithms/recursion/stone_division_revisited/Solution.java)
+Recursion | <!--03.--> Hard | 040 | [Arithmetic Expressions](https://www.hackerrank.com/challenges/arithmetic-expressions/problem) | [Solution](./src/algorithms/recursion/arithmetic_expressions/Solution.java)
 Recursion | <!--03.--> Hard | 050 | [K Factorization](https://www.hackerrank.com/challenges/k-factorization/problem) | [Solution](./src/algorithms/recursion/k_factorization/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./src/algorithms/sorting/fraudulent_activity_notifications/Solution.java)
 Sorting | <!--02.--> Medium | 040 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | [Solution](./src/algorithms/sorting/lily_s_homework/Solution.java)
