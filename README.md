@@ -1,5 +1,5 @@
 # HackerRank Solutions
-Welcome to my HackerRank journey. Here are presented 151 HackerRank solutions using Java 8.
+Welcome to my HackerRank journey. Here are presented 172 HackerRank solutions using Java 8.
 
 # About This Project
 This project was done using Eclipse (Neon 3) IDE and Java 8. 
@@ -170,6 +170,37 @@ Warmup | <!--01.--> Easy | 010 | [Plus Minus](https://www.hackerrank.com/challen
 Warmup | <!--01.--> Easy | 010 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](./src/algorithms/warmup/simple_array_sum/Solution.java)
 Warmup | <!--01.--> Easy | 010 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](./src/algorithms/warmup/staircase/Solution.java)
 Warmup | <!--01.--> Easy | 015 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](./src/algorithms/warmup/time_conversion/Solution.java)
+
+## [1 Week Preparation Kit](./src/one_week_preparation_kit)
+
+### Exercises
+| Day | Difficulty | Challenge | Solution |
+|:---:|:---:|:---:|:---:|
+Day 1 | <!--01.--> Easy | [Mini-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum/problem) | [Solution](./src/one_week_preparation_kit/day_a/min_max_sum/Solution.java)
+Day 1 | <!--01.--> Easy | [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem) | [Solution](./src/one_week_preparation_kit/day_a/plus_minus/Solution.java)
+Day 1 | <!--01.--> Easy | [Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem) | [Solution](./src/one_week_preparation_kit/day_a/time_conversion/Solution.java)
+Day 2 | <!--01.--> Easy | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1/problem) | [Solution](./src/one_week_preparation_kit/day_b/counting_sort_a/Solution.java)
+Day 2 | <!--01.--> Easy | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem) | [Solution](./src/one_week_preparation_kit/day_b/diagonal_difference/Solution.java)
+Day 2 | <!--01.--> Easy | [Lonely Integer](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/problem) | [Solution](./src/one_week_preparation_kit/day_b/lonely_integer/Solution.java)
+Day 3 | <!--01.--> Easy | [Caesar Cipher](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem) | [Solution](./src/one_week_preparation_kit/day_c/caesar_cipher/Solution.java)
+Day 3 | <!--01.--> Easy | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/problem) | [Solution](./src/one_week_preparation_kit/day_c/tower_breakers/Solution.java)
+Day 3 | <!--01.--> Easy | [Zig Zag Sequence](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem) | [Solution](./src/one_week_preparation_kit/day_c/zig_zag_sequence/Solution.java)
+Day 4 | <!--01.--> Easy | [Grid Challenge](https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge/problem) | [Solution](./src/one_week_preparation_kit/day_d/grid_challenge/Solution.java)
+Day 4 | <!--01.--> Easy | [New Year Chaos](https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos/problem) | [Solution](./src/one_week_preparation_kit/day_d/new_year_chaos/Solution.java)
+Day 4 | <!--01.--> Easy | [Recursive Digit Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-sum/problem) | [Solution](./src/one_week_preparation_kit/day_d/recursive_digit_sum/Solution.java)
+Day 5 | <!--01.--> Medium | [Balanced Brackets](https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets/problem) | [Solution](./src/one_week_preparation_kit/day_e/balanced_brackets/Solution.java)
+Day 5 | <!--01.--> Medium | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/one-week-preparation-kit-merge-two-sorted-linked-lists/problem) | [Solution](./src/one_week_preparation_kit/day_e/merge_two_sorted_linked_lists/Solution.java)
+Day 5 | <!--01.--> Medium | [Queue using Two Stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | [Solution](./src/one_week_preparation_kit/day_e/queue_using_two_stacks/Solution.java)
+Day 6 | <!--01.--> Medium | [Simple Text Editor](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor/problem) | [Solution](./src/one_week_preparation_kit/day_f/simple_text_editor/Solution.java)
+
+### Exams
+| Day | Difficulty | Challenge | Solution |
+|:---:|:---:|:---:|:---:|
+Day 1 | <!--99.--> Easy | Find The Median | [Solution](./src/one_week_preparation_kit/day_a/find_the_median/Solution.java)
+Day 2 | <!--99.--> Easy | Flipping The Matrix | [Solution](./src/one_week_preparation_kit/day_b/flipping_the_matrix/Solution.java)
+Day 3 | <!--99.--> Easy | Palindrome Index | [Solution](./src/one_week_preparation_kit/day_c/palindrome_index/Solution.java)
+Day 4 | <!--99.--> Medium | Truck Tour | [Solution](./src/one_week_preparation_kit/day_d/truck_tour/Solution.java)
+Day 5 | <!--99.--> Medium | Pairs | [Solution](./src/one_week_preparation_kit/day_e/pairs/Solution.java)
 
 # Important
 Heavily inspired on [RodneyShag's repo](https://github.com/RodneyShag/HackerRank_solutions), go check his repo too!.
